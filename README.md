@@ -29,10 +29,16 @@ Software Engineering student focused on developing scalable, high-performance we
 ---
 
 ### 03. Analytics
+---
+
+### 03. Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiya-inayat&show_icons=true&theme=tokyonight&hide_border=true&title_color=00C4CC&icon_color=00C4CC" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiya-inayat&layout=compact&theme=tokyonight&hide_border=true&title_color=00C4CC" height="165" alt="Top Languages" />
+<!-- This section will be updated automatically by GitHub Actions -->
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 </p>
+
+---
 
 <p align="center">
 <!-- START_SECTION:waka -->
