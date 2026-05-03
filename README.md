@@ -28,8 +28,7 @@ Software Engineering student focused on developing scalable, high-performance we
 
 ---
 
-### 03. Analytics
----
+
 
 ### 03. Analytics
 <p align="center">
@@ -40,12 +39,7 @@ Software Engineering student focused on developing scalable, high-performance we
 
 ---
 
-<p align="center">
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-</p>
 
----
 
 ### 04. Connect
 <p align="center">
