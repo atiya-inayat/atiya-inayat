@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs at midnight
+  workflow_dispatch: # Allows you to run it manually
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: WakaTime Progress
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "false"
+          SHOW_PROJECTS: "true"
+          SHOW_TIME: "true"
