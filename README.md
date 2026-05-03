@@ -34,9 +34,9 @@ Software Engineering student focused on developing scalable, high-performance we
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiya-inayat&layout=compact&theme=tokyonight&hide_border=true&title_color=00C4CC" height="165" alt="Top Languages" />
 </p>
 
-<!-- WakaTime block using correctly updated username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=atiyainayat&theme=tokyonight&hide_border=true&title_color=00C4CC" alt="WakaTime Stats" />
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 </p>
 
 ---
