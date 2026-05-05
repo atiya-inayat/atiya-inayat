@@ -34,7 +34,7 @@ Specialized in the **MERN stack** and **Next.js**, with strong emphasis on clean
 
 ###  Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/atiya-inayat-591847318/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
   </a>
