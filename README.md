@@ -30,11 +30,8 @@ Software Engineering student focused on developing scalable, high-performance we
 
 
 
-### 03. Analytics
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
