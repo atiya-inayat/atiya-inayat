@@ -9,16 +9,18 @@
 
 ---
 
-### 01. Profile
-Software Engineering student focused on developing scalable, high-performance web applications. Specialized in the **MERN stack** and **Next.js**, with a strong emphasis on clean architecture and efficient system design.
+###  Profile
 
-*   **Current Focus:** Refining full-stack architectures and modern web performance.
-*   **Specialization:** Frontend-to-backend integration and UI/UX precision.
-*   **Goal:** Building impactful digital solutions with maintainable code.
+Software Engineering student focused on building scalable, high-performance web applications.  
+Specialized in the **MERN stack** and **Next.js**, with strong emphasis on clean architecture and system design.
+
+- **Current Focus:** Scalable full-stack applications & performance optimization  
+- **Specialization:** Frontend-to-backend integration & UI engineering  
+- **Goal:** Building impactful, production-ready systems
 
 ---
 
-### 02. Tech Stack
+###  Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -30,12 +32,8 @@ Software Engineering student focused on developing scalable, high-performance we
 
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+###  Connect With Me
 
-
-
-### 04. Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/atiya-inayat-591847318/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin" />
