@@ -31,11 +31,8 @@ Software Engineering student focused on developing scalable, high-performance we
 
 
 ### 03. Analytics
-<p align="center">
-<!-- This section will be updated automatically by GitHub Actions -->
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
-</p>
 
 ---
 
